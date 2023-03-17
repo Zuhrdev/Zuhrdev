@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **HTML and CSS**
 
-- 👨‍💻 All of my projects are available at [my Github](my Github)
-
 - 💬 Ask me about **flutter**
 
 <h3 align="left">Connect with me:</h3>
